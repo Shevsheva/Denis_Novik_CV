@@ -1,0 +1,160 @@
+.main {
+    display: flex;
+    position: relative;
+    width 1200px;
+    max-width: 960px;
+    margin: 100px;
+    top: 10%;
+    left: 10%;
+}
+
+.main_content {
+    background-color: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px;
+
+}
+
+body {
+    position: absolute;
+    width: 1445px;
+    height: 4706px;
+    left: 0px;
+    top: 0px;
+    background: 
+    width: 1445px;
+    height: 4706px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Joan', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Joan', serif;
+        font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #828282;
+    margin-left: 15px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.my_photo {
+
+    width: 943.61px;
+    height: 387px;
+    left: 251.69px;
+    top: 211.96px;
+}
+
+.about_me {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 25em;
+    text-align: center;
+    background-color: #F6F6F6;
+}
+
+.skills_text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 15em;
+    text-align: center;
+}
+
+.skills {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+}
+
+.ps {
+background: radial-gradient(75.99% 75.64% at 32.94% 22.44%, rgba(52, 54, 78, 0.98) 0%, #0C0824 100%);
+}
+
+.ai {
+    background: radial-gradient(76% 75.63% at 32.97% 22.44%, rgba(66, 51, 37, 0.98) 0%, #1C0A00 100%);
+}
+
+.ae {
+    background: radial-gradient(76% 75.63% at 32.97% 22.42%, rgba(68, 47, 85, 0.98) 0%, #12002C 100%);
+}
+
+.fig {
+    max-width: 100px;
+    height: 105px;
+}
+
+.skills_prog {
+    margin: 100px;
+}
+
+.skills_stars {
+    
+}
+
+.portfolio {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 25em;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 15em;
+    text-align: center;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 47.3392px;
+    line-height: 64px;
+}
+
+h3 {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 46px;
+        text-align: center;
+}
+
+button {
+    border-radius: 40px;
+    background-color: black;
+    color: #FFFFFF;
+    margin-top: 80px;
+    margin-bottom: 15px;
+}
+
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    width: 17em;
+}
